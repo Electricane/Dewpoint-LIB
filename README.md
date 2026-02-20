@@ -115,7 +115,7 @@ long pid = DewSystem.getPid();
 
 ### Uptime
 ```java
-String uptime = DewSystem.getUptimeString(); // e.g. "1h 20m 5s"
+String uptime = DewSystem.getUptimeString(); // Returns your Uptime in a format like this "1h 20m 5s"
 ```
 
 
